@@ -1,6 +1,6 @@
 ## Foothold
 
-Au départ, j'ai pensé à utiliser la même méthode que pour le challenge <a href="https://github.com/CTF-Writeups/ZiTF%202023/The%20Gallery" target="_blank">The Gallery</a>, en utilisant la fonction permettant de changer la photo de profil du CTF.
+Au départ, j'ai pensé à utiliser la même méthode que pour le challenge <a href="https://github.com/Birsol/CTF-Writeups/tree/main/ZiTF%202023/Challenges/Web/The%20Gallery" target="_blank">The Gallery</a>, en utilisant la fonction permettant de changer la photo de profil du CTF.
 
 La solution que j'ai trouvé était plus simple que ça :
 
